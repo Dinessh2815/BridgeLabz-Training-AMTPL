@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\ConsoleProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\ConditionsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\learning\\amt-training\\consoleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C562BE85-B426-41B6-9CD4-06B4BB98F4B3}|ConditionsProject.csproj|c:\\users\\windows 11\\documents\\learning\\amt-training\\conditionsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C562BE85-B426-41B6-9CD4-06B4BB98F4B3}|ConditionsProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\ConsoleProject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\ConditionsProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\ConsoleProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\ConditionsProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T11:44:06.063Z",
+              "WhenOpened": "2025-11-01T09:12:26.808Z",
               "EditorCaption": ""
             },
             {
