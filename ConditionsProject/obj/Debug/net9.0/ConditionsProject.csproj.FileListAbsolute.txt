@@ -1,0 +1,15 @@
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\obj\Debug\net9.0\ConditionsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\obj\Debug\net9.0\ConditionsProject.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\obj\Debug\net9.0\ConditionsProject.AssemblyInfo.cs
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\obj\Debug\net9.0\ConditionsProject.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\obj\Debug\net9.0\ConditionsProject.sourcelink.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\bin\Debug\net9.0\ConditionsProject.exe
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\bin\Debug\net9.0\ConditionsProject.deps.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\bin\Debug\net9.0\ConditionsProject.runtimeconfig.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\bin\Debug\net9.0\ConditionsProject.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\bin\Debug\net9.0\ConditionsProject.pdb
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\obj\Debug\net9.0\ConditionsProject.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\obj\Debug\net9.0\refint\ConditionsProject.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\obj\Debug\net9.0\ConditionsProject.pdb
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\obj\Debug\net9.0\ConditionsProject.genruntimeconfig.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\ConditionsProject\obj\Debug\net9.0\ref\ConditionsProject.dll
