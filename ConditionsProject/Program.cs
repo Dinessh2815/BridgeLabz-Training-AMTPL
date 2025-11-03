@@ -43,7 +43,7 @@ namespace ConditionsProject
                     break;
             }
 
-                Console.WriteLine($"The result is: {result:F}");
+              Console.WriteLine($"The result is: {result:F}");
             }
         }
     }

@@ -1,0 +1,15 @@
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\bin\Debug\net9.0\LoopsProject.exe
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\bin\Debug\net9.0\LoopsProject.deps.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\bin\Debug\net9.0\LoopsProject.runtimeconfig.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\bin\Debug\net9.0\LoopsProject.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\bin\Debug\net9.0\LoopsProject.pdb
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\obj\Debug\net9.0\LoopsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\obj\Debug\net9.0\LoopsProject.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\obj\Debug\net9.0\LoopsProject.AssemblyInfo.cs
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\obj\Debug\net9.0\LoopsProject.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\obj\Debug\net9.0\LoopsProject.sourcelink.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\obj\Debug\net9.0\LoopsProject.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\obj\Debug\net9.0\refint\LoopsProject.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\obj\Debug\net9.0\LoopsProject.pdb
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\obj\Debug\net9.0\LoopsProject.genruntimeconfig.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\loopsproject\obj\Debug\net9.0\ref\LoopsProject.dll
