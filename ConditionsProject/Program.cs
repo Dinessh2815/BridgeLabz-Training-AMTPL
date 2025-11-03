@@ -17,30 +17,30 @@ namespace ConditionsProject
 
             double result = 0;
 
-            if (op == '+') 
+            switch (op)
             {
-                result = num1 + num2;
-            }
-            else if (op == '-')
-            {
-                result = num1 - num2;
-            }
-            else if (op == '*')
-            {
-                result = num1 * num2;
-            }
-            else if (op == '/')
-            {
-                if (num2 != 0)
-                {
-                    result = num1 / num2;
-                } else {
-                    Console.WriteLine("Error: Division by zero");
-                }
-            }
-            else
-            {
-                Console.WriteLine("Invalid operator");
+                case '+':
+                    result = num1 + num2;
+                    break;
+                case '-':
+                    result = num1 - num2;
+                    break;
+                case '*':
+                    result = num1 * num2;
+                    break;
+                case '/':
+                    if (num2 != 0)
+                    {
+                        result = num1 / num2;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Error: Division by 0");
+                    }
+                    break;
+                default:
+                    Console.WriteLine("Error: Invalid Operator");
+                    break;
             }
 
                 Console.WriteLine($"The result is: {result:F}");
