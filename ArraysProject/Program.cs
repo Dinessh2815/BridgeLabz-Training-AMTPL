@@ -36,7 +36,6 @@
                 Console.WriteLine($"The number of flips are {flips}");
                 Console.WriteLine($"the probability of tails is {tailPercentage}%");
                 Console.WriteLine($"the probability of tails is {headPercentage}%");
-
             }
             }
         }
