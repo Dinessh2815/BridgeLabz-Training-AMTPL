@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoopsProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8258eeadaf67e69602170fb5c7ac83d9bae7db79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6f1253bfc71673dead9c8285600de79eff1d802")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoopsProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoopsProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
