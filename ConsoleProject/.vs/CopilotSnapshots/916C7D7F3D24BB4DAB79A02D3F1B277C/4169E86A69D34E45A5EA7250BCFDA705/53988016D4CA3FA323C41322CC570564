@@ -1,0 +1,52 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ConsoleProject
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("=== Creating Objects Using Inheritance Constructors ===\n");
+
+            // Creating object of base class Vehicle
+            Console.WriteLine("1. Creating Vehicle object:");
+            Vehicle vehicle1 = new Vehicle("Generic", "50");
+            vehicle1.Display();
+            Console.WriteLine();
+
+            // Creating object of derived class Car
+            Console.WriteLine("2. Creating Car object:");
+            Car car1 = new Car("Toyota", "120", "Camry");
+            car1.Display();
+            Console.WriteLine();
+
+            // Creating another Car object
+            Console.WriteLine("3. Creating another Car object:");
+            Car car2 = new Car("BMW", "200", "X5");
+            car2.Display();
+            Console.WriteLine();
+
+            // Creating object of derived class Motorcycle
+            Console.WriteLine("4. Creating Motorcycle object:");
+            Motorcycle bike1 = new Motorcycle("Harley-Davidson", "Cruiser");
+            bike1.Display();
+            Console.WriteLine();
+
+            // Demonstrating polymorphism - base class reference to derived objects
+            Console.WriteLine("5. Polymorphism - Base class reference to derived objects:");
+            Vehicle[] vehicles = {
+                new Vehicle("Generic Vehicle", "40"),
+                new Car("Honda", "100", "Civic"),
+                new Motorcycle("Yamaha", "Sport")
+            };
+
+            foreach (Vehicle v in vehicles)
+            {
+                v.Display();
+            }
+
+            Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey();
+        }
+    }
+}

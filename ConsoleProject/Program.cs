@@ -1,10 +1,17 @@
-﻿namespace ConsoleProject
+﻿using System;
+namespace ConsoleProject
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello, World!");
+            SmartHome l1 = new SmartLight("Vega");
+            SmartHome f1 = new SmartFan("something");
+
+            l1.activate();
+            f1.activate();
+
+
         }
     }
 }

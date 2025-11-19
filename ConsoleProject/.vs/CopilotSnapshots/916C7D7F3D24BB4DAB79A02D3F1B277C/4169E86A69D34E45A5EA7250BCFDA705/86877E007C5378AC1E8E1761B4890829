@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleProject
+{
+    internal class Inheritance
+    {
+        class Car
+        {
+            public string brand;
+            public string speed;
+
+            public Car(string a, string b)
+            {
+                brand = a;
+                speed = b;
+            }
+
+            public void Display()
+            {
+                Console.Write($"{brand} car is running at {speed} kmph");
+            }
+
+        }
+    }
+}

@@ -1,0 +1,64 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleProject
+{
+    // Base class
+    internal class Vehicle
+    {
+        public string brand;
+        public string speed;
+
+        // Base class constructor
+        public Vehicle(string brand, string speed)
+        {
+            this.brand = brand;
+            this.speed = speed;
+            Console.WriteLine($"Vehicle constructor called: {brand}");
+        }
+
+        public virtual void Display()
+        {
+            Console.WriteLine($"{brand} is running at {speed} kmph");
+        }
+    }
+
+    // Derived class inheriting from Vehicle
+    internal class Car : Vehicle
+    {
+        public string model;
+
+        // Derived class constructor using base constructor
+        public Car(string brand, string speed, string model) : base(brand, speed)
+        {
+            this.model = model;
+            Console.WriteLine($"Car constructor called: {model}");
+        }
+
+        public override void Display()
+        {
+            Console.WriteLine($"{brand} {model} car is running at {speed} kmph");
+        }
+    }
+
+    // Another derived class
+    internal class Motorcycle : Vehicle
+    {
+        public string type;
+
+        // Constructor with only brand parameter, setting default speed
+        public Motorcycle(string brand, string type) : base(brand, "60")
+        {
+            this.type = type;
+            Console.WriteLine($"Motorcycle constructor called: {type}");
+        }
+
+        public override void Display()
+        {
+            Console.WriteLine($"{brand} {type} motorcycle is running at {speed} kmph");
+        }
+    }
+}
