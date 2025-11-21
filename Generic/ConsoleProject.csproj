@@ -5,7 +5,15 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleProject.exampleOfList</StartupObject>
+    <StartupObject>ConsoleProject.ContinuosBinaryArray</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ExamplesDictionary.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ExamplesDictionary.cs" />
+  </ItemGroup>
 
 </Project>
