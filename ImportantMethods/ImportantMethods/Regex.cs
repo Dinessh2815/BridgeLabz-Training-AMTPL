@@ -18,6 +18,7 @@ namespace ImportantMethods
 
             Console.WriteLine(isValid ? "Valid" : "Invalid");
 
-        }
+        C: \Users\Windows 11\Documents\Learning\AMT - Training\BridgeLabz - Training - AMTPL > git rm - r--cached.vs
+        fatal: pathspec '.vs' did not match any files        }
     }
 }
