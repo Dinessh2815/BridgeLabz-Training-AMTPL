@@ -1,0 +1,15 @@
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\obj\Debug\net9.0\Non-Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\obj\Debug\net9.0\Non-Generics.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\obj\Debug\net9.0\Non-Generics.AssemblyInfo.cs
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\obj\Debug\net9.0\Non-Generics.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\obj\Debug\net9.0\Non-Generics.sourcelink.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\bin\Debug\net9.0\Non-Generics.exe
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\bin\Debug\net9.0\Non-Generics.deps.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\bin\Debug\net9.0\Non-Generics.runtimeconfig.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\bin\Debug\net9.0\Non-Generics.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\bin\Debug\net9.0\Non-Generics.pdb
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\obj\Debug\net9.0\Non-Generics.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\obj\Debug\net9.0\refint\Non-Generics.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\obj\Debug\net9.0\Non-Generics.pdb
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\obj\Debug\net9.0\Non-Generics.genruntimeconfig.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\Non-Generics\obj\Debug\net9.0\ref\Non-Generics.dll

@@ -1,0 +1,15 @@
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\bin\Debug\net9.0\ImportantMethods.exe
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\bin\Debug\net9.0\ImportantMethods.deps.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\bin\Debug\net9.0\ImportantMethods.runtimeconfig.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\bin\Debug\net9.0\ImportantMethods.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\bin\Debug\net9.0\ImportantMethods.pdb
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\obj\Debug\net9.0\ImportantMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\obj\Debug\net9.0\ImportantMethods.AssemblyInfoInputs.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\obj\Debug\net9.0\ImportantMethods.AssemblyInfo.cs
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\obj\Debug\net9.0\ImportantMethods.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\obj\Debug\net9.0\ImportantMethods.sourcelink.json
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\obj\Debug\net9.0\ImportantMethods.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\obj\Debug\net9.0\refint\ImportantMethods.dll
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\obj\Debug\net9.0\ImportantMethods.pdb
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\obj\Debug\net9.0\ImportantMethods.genruntimeconfig.cache
+C:\Users\Windows 11\Documents\Learning\AMT-Training\BridgeLabz-Training-AMTPL\ImportantMethods\ImportantMethods\obj\Debug\net9.0\ref\ImportantMethods.dll
