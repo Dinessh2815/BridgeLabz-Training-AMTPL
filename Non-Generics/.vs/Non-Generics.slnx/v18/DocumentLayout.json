@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\Non-Generics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CD90915-C2CE-0377-FA52-785C857088BF}|Non-Generics.csproj|c:\\users\\windows 11\\documents\\learning\\amt-training\\bridgelabz-training-amtpl\\non-generics\\examplehashtable\\example2hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD90915-C2CE-0377-FA52-785C857088BF}|Non-Generics.csproj|solutionrelative:examplehashtable\\example2hashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD90915-C2CE-0377-FA52-785C857088BF}|Non-Generics.csproj|c:\\users\\windows 11\\documents\\learning\\amt-training\\bridgelabz-training-amtpl\\non-generics\\examplearraylist\\example2arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD90915-C2CE-0377-FA52-785C857088BF}|Non-Generics.csproj|solutionrelative:examplearraylist\\example2arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CD90915-C2CE-0377-FA52-785C857088BF}|Non-Generics.csproj|c:\\users\\windows 11\\documents\\learning\\amt-training\\bridgelabz-training-amtpl\\non-generics\\examplehashtable\\example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CD90915-C2CE-0377-FA52-785C857088BF}|Non-Generics.csproj|solutionrelative:examplehashtable\\example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,7 +29,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 458,
+          "DockedHeight": 647,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -45,51 +53,72 @@
           ]
         },
         {
-          "DockedHeight": 575,
+          "DockedHeight": 553,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         },
         {
-          "DockedHeight": 316,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 296,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Example2HashTable.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\Non-Generics\\ExampleHashTable\\Example2HashTable.cs",
+              "RelativeDocumentMoniker": "ExampleHashTable\\Example2HashTable.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\Non-Generics\\ExampleHashTable\\Example2HashTable.cs",
+              "RelativeToolTip": "ExampleHashTable\\Example2HashTable.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:10:10.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Example2ArrayList.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\Non-Generics\\ExampleArrayList\\Example2ArrayList.cs",
+              "RelativeDocumentMoniker": "ExampleArrayList\\Example2ArrayList.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\Non-Generics\\ExampleArrayList\\Example2ArrayList.cs",
+              "RelativeToolTip": "ExampleArrayList\\Example2ArrayList.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:49:12.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Non-Generics",
               "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\Non-Generics\\Non-Generics.csproj",
               "RelativeDocumentMoniker": "Non-Generics.csproj",
               "ToolTip": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\Non-Generics\\Non-Generics.csproj",
               "RelativeToolTip": "Non-Generics.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-21T07:04:33.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T07:04:33.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Example1.cs",
               "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\Non-Generics\\ExampleHashTable\\Example1.cs",
               "RelativeDocumentMoniker": "ExampleHashTable\\Example1.cs",
               "ToolTip": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\Non-Generics\\ExampleHashTable\\Example1.cs",
               "RelativeToolTip": "ExampleHashTable\\Example1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-21T06:45:12.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Example1.cs",
               "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\Non-Generics\\ExampleArrayList\\Example1.cs",
               "RelativeDocumentMoniker": "ExampleArrayList\\Example1.cs",
@@ -97,13 +126,12 @@
               "RelativeToolTip": "ExampleArrayList\\Example1.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAkwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T05:42:50.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T05:42:50.878Z"
             }
           ]
         },
         {
-          "DockedHeight": 116,
+          "DockedHeight": 143,
           "SelectedChildIndex": -1,
           "Children": [
             {

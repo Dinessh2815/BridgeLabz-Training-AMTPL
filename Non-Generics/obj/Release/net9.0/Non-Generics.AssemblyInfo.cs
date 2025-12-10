@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Non-Generics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49de9591e26d4d3fb68b1e2e1936bf18929f1d0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9297ff530e2f2ac85d3edce903456d0d931dfbd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Non-Generics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Non-Generics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

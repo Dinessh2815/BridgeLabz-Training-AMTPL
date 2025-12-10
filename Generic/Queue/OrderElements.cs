@@ -17,10 +17,16 @@ namespace ConsoleProject.Queue
             q.Enqueue(20);
             q.Enqueue(30);
 
-            while (q.Count > 0)
-            {
+            Stack<int> s = new Stack<int>();
 
-                Console.WriteLine(q.Dequeue());
+            foreach (int x in q)
+            {
+                s.Push(x);
+            }
+
+            while(s.Count > 0)
+            {
+                Console.WriteLine(s.Pop());
             }
             
         }
