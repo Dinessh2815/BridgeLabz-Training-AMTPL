@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\learning\\amt-training\\bridgelabz-training-amtpl\\consoleproject\\sorting\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:sorting\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\learning\\amt-training\\bridgelabz-training-amtpl\\consoleproject\\linkedlists\\singlyll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:linkedlists\\singlyll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\learning\\amt-training\\bridgelabz-training-amtpl\\consoleproject\\consoleproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:consoleproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\learning\\amt-training\\bridgelabz-training-amtpl\\consoleproject\\sorting\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:sorting\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\learning\\amt-training\\bridgelabz-training-amtpl\\consoleproject\\sorting\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:sorting\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\learning\\amt-training\\bridgelabz-training-amtpl\\consoleproject\\sorting\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,7 +33,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 847,
+          "DockedHeight": 740,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -39,15 +47,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SinglyLL.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\LinkedLists\\SinglyLL.cs",
+              "RelativeDocumentMoniker": "LinkedLists\\SinglyLL.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\LinkedLists\\SinglyLL.cs",
+              "RelativeToolTip": "LinkedLists\\SinglyLL.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T03:20:58.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Sorting\\QuickSort.cs",
+              "RelativeDocumentMoniker": "Sorting\\QuickSort.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Sorting\\QuickSort.cs",
+              "RelativeToolTip": "Sorting\\QuickSort.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:34:44.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "InsertionSort.cs",
               "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Sorting\\InsertionSort.cs",
               "RelativeDocumentMoniker": "Sorting\\InsertionSort.cs",
               "ToolTip": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Sorting\\InsertionSort.cs",
               "RelativeToolTip": "Sorting\\InsertionSort.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T09:21:38.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T09:21:38.811Z"
             },
             {
               "$type": "Document",
@@ -63,20 +96,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BubbleSort.cs",
               "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Sorting\\BubbleSort.cs",
               "RelativeDocumentMoniker": "Sorting\\BubbleSort.cs",
               "ToolTip": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Sorting\\BubbleSort.cs",
               "RelativeToolTip": "Sorting\\BubbleSort.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T06:23:45.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T06:23:45.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Learning\\AMT-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -89,9 +121,13 @@
           ]
         },
         {
-          "DockedHeight": 316,
+          "DockedHeight": 352,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -99,7 +135,7 @@
           ]
         },
         {
-          "DockedHeight": 376,
+          "DockedHeight": 358,
           "SelectedChildIndex": -1,
           "Children": [
             {

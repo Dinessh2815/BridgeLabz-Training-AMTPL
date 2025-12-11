@@ -13,10 +13,12 @@ namespace ConsoleProject.Sorting
         {
             void QuickSort(int[] arr, int low, int high)
             {
-                int PartitionPivet = Partition(arr, low, high);
-
-                QuickSort(arr, low, PartitionPivet - 1);
-                QuickSort(arr, PartitionPivet + 1, high);
+                if (low < high)
+                {
+                    int partitionPivot = Partition(arr, low, high);
+                    QuickSort(arr, low, partitionPivot - 1);
+                    QuickSort(arr, partitionPivot + 1, high);
+                }
             }
 
             int Partition(int[] arr, int low, int high)
@@ -24,20 +26,16 @@ namespace ConsoleProject.Sorting
                 int pivot = arr[high];
                 int i = low - 1;
 
-                for(int j = low; j < high; j++)
+                for (int j = low; j < high; j++)
                 {
                     if (arr[j] < pivot)
                     {
                         i++;
                         (arr[i], arr[j]) = (arr[j], arr[i]);
                     }
-
-                    (arr[i + 1], arr[high]) = (arr[high], arr[i + 1]);
-                    return i + 1;
-
                 }
-
-
+                (arr[i + 1], arr[high]) = (arr[high], arr[i + 1]);
+                return i + 1;
 
             }
             int[] arr = { 9, 3, 7, 1, 6 };

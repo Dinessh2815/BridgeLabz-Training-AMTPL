@@ -5,7 +5,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleProject.Sorting.InsertionSort</StartupObject>
+    <StartupObject>ConsoleProject.LinkedLists.SinglyLL</StartupObject>
   </PropertyGroup>
 
 </Project>
