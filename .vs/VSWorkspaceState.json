@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Generic",
-    "\\ImportantMethods\\ImportantMethods"
+    "\\ConsoleProject"
   ],
-  "SelectedNode": "\\Generic",
+  "SelectedNode": "\\ConsoleProject\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

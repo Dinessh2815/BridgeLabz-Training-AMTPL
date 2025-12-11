@@ -1,5 +1,6 @@
 ﻿# Ignore all VS cache folders everywhere
 **/.vs/
+/.vs
 
 # Ignore build output
 bin/
