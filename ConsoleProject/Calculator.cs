@@ -6,9 +6,16 @@ using System.Threading.Tasks;
 
 namespace ConsoleProject
 {
-    internal class Calculator
+    public class Calculator
     {
-        public int Add(int x, int y)
-        { return x + y; }
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
+        public int Divide(int a, int b)
+        {
+            return a / b;
+        }
+
     }
 }

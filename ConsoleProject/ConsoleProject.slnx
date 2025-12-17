@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../TestProject2/TestProject2.csproj" Id="a73a49c3-b0fb-4f13-a3a0-76cde8e27c06" />
   <Project Path="ConsoleProject.csproj" />
 </Solution>
