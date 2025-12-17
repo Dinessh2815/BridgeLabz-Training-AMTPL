@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="NUnitDemo.csproj" />
-  <Project Path="NUnitDemo.Tests/NUnitDemo.Tests.csproj" />
-</Solution>
