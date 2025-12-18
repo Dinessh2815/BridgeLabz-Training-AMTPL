@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\downloads\\bridgelabz\\bridgelabz-training-amtpl\\consoleproject\\fileiopractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:fileiopractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\downloads\\bridgelabz\\bridgelabz-training-amtpl\\consoleproject\\consoleproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:consoleproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\downloads\\bridgelabz\\bridgelabz-training-amtpl\\consoleproject\\annotations\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:annotations\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\downloads\\bridgelabz\\bridgelabz-training-amtpl\\consoleproject\\events\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:events\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -30,9 +47,59 @@
           ]
         },
         {
-          "DockedHeight": 287,
-          "SelectedChildIndex": -1,
+          "DockedHeight": 387,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\Program.cs",
+              "RelativeDocumentMoniker": "FileIOPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\Program.cs",
+              "RelativeToolTip": "FileIOPractice\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:02:55.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Example.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Annotations\\Example.cs",
+              "RelativeDocumentMoniker": "Annotations\\Example.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Annotations\\Example.cs",
+              "RelativeToolTip": "Annotations\\Example.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:12:45.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleProject",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj",
+              "RelativeDocumentMoniker": "ConsoleProject.csproj",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj",
+              "RelativeToolTip": "ConsoleProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T09:11:57.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Example.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Events\\Example.cs",
+              "RelativeDocumentMoniker": "Events\\Example.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Events\\Example.cs",
+              "RelativeToolTip": "Events\\Example.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:53:46.552Z"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -60,12 +127,16 @@
           ]
         },
         {
-          "DockedHeight": 165,
+          "DockedHeight": 65,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
