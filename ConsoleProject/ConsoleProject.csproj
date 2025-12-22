@@ -5,7 +5,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>FileIOPractice.Program</StartupObject>
+    <StartupObject>FileIOPractice.JsonProgram</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
