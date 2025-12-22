@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj": {}
+    "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj": {
+    "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj",
+        "projectUniqueName": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj",
         "projectName": "ConsoleProject",
-        "projectPath": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj",
+        "projectPath": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj",
         "packagesPath": "C:\\Users\\Windows 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\obj\\",
+        "outputPath": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
