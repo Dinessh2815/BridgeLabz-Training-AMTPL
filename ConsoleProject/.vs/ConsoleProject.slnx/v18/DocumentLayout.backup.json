@@ -1,13 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A73A49C3-B0FB-4F13-A3A0-76CDE8E27C06}|..\\TestProject2\\TestProject2.csproj|c:\\users\\windows 11\\downloads\\bridgelabz\\bridgelabz-training-amtpl\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\downloads\\bridgelabz\\bridgelabz-training-amtpl\\consoleproject\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\consoleproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:consoleproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,8 +17,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 582,
-          "SelectedChildIndex": 5,
+          "DockedHeight": 433,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,48 +30,18 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\TestProject2\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\TestProject2\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\TestProject2\\UnitTest1.cs",
-              "RelativeToolTip": "..\\TestProject2\\UnitTest1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswB4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T05:32:17.282Z",
-              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 138,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 367,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Calculator.cs",
-              "RelativeDocumentMoniker": "Calculator.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\BridgeLabZ\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Calculator.cs",
-              "RelativeToolTip": "Calculator.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T05:36:16.876Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -98,12 +69,44 @@
           ]
         },
         {
-          "DockedHeight": 165,
+          "DockedHeight": 220,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwFkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:34:28.871Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleProject",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj",
+              "RelativeDocumentMoniker": "ConsoleProject.csproj",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj",
+              "RelativeToolTip": "ConsoleProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-22T06:24:34.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 95,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
