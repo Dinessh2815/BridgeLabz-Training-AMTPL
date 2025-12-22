@@ -5,19 +5,21 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>FileIOPractice.JsonProgram</StartupObject>
+    <StartupObject>ConsoleProject.LINQ.PracticeExample</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="FileIOPractice\Models\**" />
     <Compile Remove="NunitDemo\**" />
+    <EmbeddedResource Remove="FileIOPractice\Models\**" />
     <EmbeddedResource Remove="NunitDemo\**" />
+    <None Remove="FileIOPractice\Models\**" />
     <None Remove="NunitDemo\**" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="FileIOPractice\JsonFiles\" />
     <Folder Include="FileIOPractice\CsvFiles\" />
-    <Folder Include="FileIOPractice\Models\" />
     <Folder Include="FileIOPractice\TextFiles\" />
   </ItemGroup>
 

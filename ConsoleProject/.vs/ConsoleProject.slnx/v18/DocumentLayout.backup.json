@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\fileiopractice\\csvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:fileiopractice\\csvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\linq\\practiceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:linq\\practiceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\linq\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:linq\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\consoleproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:consoleproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\delegates\\multipledelegatesexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:delegates\\multipledelegatesexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\events\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:events\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\delegates\\singledelegatesemaple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:delegates\\singledelegatesemaple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\fileiopractice\\csvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:fileiopractice\\csvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\fileiopractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:fileiopractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\fileiopractice\\textfiles\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:fileiopractice\\textfiles\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\annotations\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:annotations\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|c:\\users\\windows 11\\documents\\dotnet-training\\amtpl-training\\bridgelabz-training-amtpl\\consoleproject\\fileiopractice\\jsonio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AB9D99-F7EC-B42B-90D1-2742263F35F6}|ConsoleProject.csproj|solutionrelative:fileiopractice\\jsonio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,7 +55,7 @@
           ]
         },
         {
-          "DockedHeight": 247,
+          "DockedHeight": 386,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -73,100 +65,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "csvIO.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\csvIO.cs",
-              "RelativeDocumentMoniker": "FileIOPractice\\csvIO.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\csvIO.cs",
-              "RelativeToolTip": "FileIOPractice\\csvIO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Title": "PracticeExample.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\LINQ\\PracticeExample.cs",
+              "RelativeDocumentMoniker": "LINQ\\PracticeExample.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\LINQ\\PracticeExample.cs",
+              "RelativeToolTip": "LINQ\\PracticeExample.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv0AAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T03:25:30.856Z",
+              "WhenOpened": "2025-12-22T05:03:21.045Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SingleDelegatesEmaple.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Delegates\\SingleDelegatesEmaple.cs",
-              "RelativeDocumentMoniker": "Delegates\\SingleDelegatesEmaple.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Delegates\\SingleDelegatesEmaple.cs",
-              "RelativeToolTip": "Delegates\\SingleDelegatesEmaple.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowDgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T06:22:23.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MultipleDelegatesExample.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Delegates\\MultipleDelegatesExample.cs",
-              "RelativeDocumentMoniker": "Delegates\\MultipleDelegatesExample.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Delegates\\MultipleDelegatesExample.cs",
-              "RelativeToolTip": "Delegates\\MultipleDelegatesExample.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBAAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T06:22:20.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "notes.txt",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\TextFiles\\notes.txt",
-              "RelativeDocumentMoniker": "FileIOPractice\\TextFiles\\notes.txt",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\TextFiles\\notes.txt",
-              "RelativeToolTip": "FileIOPractice\\TextFiles\\notes.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-12-18T05:48:00.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\Program.cs",
-              "RelativeDocumentMoniker": "FileIOPractice\\Program.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\Program.cs",
-              "RelativeToolTip": "FileIOPractice\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T05:02:55.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Example.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Annotations\\Example.cs",
-              "RelativeDocumentMoniker": "Annotations\\Example.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Annotations\\Example.cs",
-              "RelativeToolTip": "Annotations\\Example.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwCAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:12:45.482Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Example.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\LINQ\\Example.cs",
+              "RelativeDocumentMoniker": "LINQ\\Example.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\LINQ\\Example.cs",
+              "RelativeToolTip": "LINQ\\Example.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAADgv7sAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T03:46:05.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ConsoleProject",
               "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj",
               "RelativeDocumentMoniker": "ConsoleProject.csproj",
               "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\ConsoleProject.csproj",
               "RelativeToolTip": "ConsoleProject.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-17T09:11:57.922Z",
+              "WhenOpened": "2025-12-22T03:44:06.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Example.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Events\\Example.cs",
-              "RelativeDocumentMoniker": "Events\\Example.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\Events\\Example.cs",
-              "RelativeToolTip": "Events\\Example.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "JsonIO.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\JsonIO.cs",
+              "RelativeDocumentMoniker": "FileIOPractice\\JsonIO.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\JsonIO.cs",
+              "RelativeToolTip": "FileIOPractice\\JsonIO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T06:53:46.552Z"
+              "WhenOpened": "2025-12-22T03:43:44.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "csvIO.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\csvIO.cs",
+              "RelativeDocumentMoniker": "FileIOPractice\\csvIO.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\csvIO.cs",
+              "RelativeToolTip": "FileIOPractice\\csvIO.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T03:25:30.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\Program.cs",
+              "RelativeDocumentMoniker": "FileIOPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\DotNet-Training\\AMTPL-Training\\BridgeLabz-Training-AMTPL\\ConsoleProject\\FileIOPractice\\Program.cs",
+              "RelativeToolTip": "FileIOPractice\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:02:55.95Z"
             }
           ]
         },
@@ -191,7 +159,7 @@
           ]
         },
         {
-          "DockedHeight": 277,
+          "DockedHeight": 138,
           "SelectedChildIndex": -1,
           "Children": [
             {
